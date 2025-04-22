@@ -16,3 +16,4 @@ by [Latic](https://github.com/LatiEm220189), [Yakut](https://github.com/YakuEn22
 - Beispiele aus der Praxis (Case Studies)
   - Bekannte Angriffe und ihre Angriffsvektoren
   - Analyse von Sicherheitslücken
+- Gegenmaßnahmen

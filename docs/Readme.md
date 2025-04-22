@@ -6,11 +6,11 @@
 - [CVSS Klassivizierung](https://www.prosec-networks.com/blog/cvss/)
 - [OWASP Top 10](https://owasp.org/www-project-top-ten/)
 - [Lockhead CKC](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html)
-- [Wiki CKC](c:\Users\janiw\AppData\Local\Temp\THE-CYBER-KILL-CHAIN-body.png.pc-adaptive.1280.medium.png)
+- [Wiki CKC](https://de.wikipedia.org/wiki/Cyber_Kill_Chain)
 - [cloudflare Did](https://www.cloudflare.com/de-de/learning/security/glossary/what-is-defense-in-depth/)
 
 
-### dumme Abkürzungen weil wir schreibfaul sind:
+## dumme Abkürzungen weil wir schreibfaul sind:
 
 - CKC = Cyber Kill Chain
 - Did = Defense in depth

@@ -9,3 +9,9 @@
 
 - 1. [SQLInjection](SQLInjection.md)
 - 2. [Remote Desktop Protocol(RDP)](RDPExercises.md)
+
+## Link
+
+> [Microsoft RDP Security Guidelines](https://www.microsoft.com/en-us/security/blog/2020/04/16/security-guidance-remote-desktop-adoption/)
+>
+>[metasploit](https://www.offsec.com/metasploit-unleashed/enabling-remote-desktop/)

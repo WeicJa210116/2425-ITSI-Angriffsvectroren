@@ -1,34 +1,28 @@
-// ...existing code...
+# SQL-Injection Übung
 
-## 3. SQL-Injection Übung
+## Szenario
 
-### Szenario
 Eine Webseite verwendet folgende unsichere SQL-Abfrage für die Benutzeranmeldung:
 
-```sql
-$query = "SELECT * FROM users WHERE username='$username' AND password='$password'";
-```
-
-Beispiel-Login-Formular:
-```html
-<form method="post" action="login.php">
-    Benutzername: <input type="text" name="username">
-    Passwort: <input type="password" name="password">
-    <input type="submit" value="Login">
-</form>
-```
+Das ist der Basis-Code der verwendet werden soll:
+[python Code](./SQLInjection.py)
+(Sie können auch ihren Eigenen Code schreiben in einer Sparacher Ihrer Wahl)
 
 ### Aufgaben
 
 1. Analysieren Sie folgende Eingaben und deren Auswirkungen:
+
    ```sql
    Username: admin' --
    Password: egal
    ```
+
    ```sql
    Username: ' OR '1'='1
    Password: ' OR '1'='1
    ```
+
+   und überlegen Sie sich andere Möglichkeiten den Code zu manipulieren
 
 2. Erklären Sie:
    - Wie die originale SQL-Abfrage manipuliert wird

@@ -31,7 +31,7 @@
 **Unternehmen sollten auf jeden Fall alle potenziellen Schwachstellen kennen. Hier soll es jedoch um die Angriffsfläche von Software-Anwendungen gehen. Dazu gehören alle möglichen Funktionen im Code einer Software-Umgebung, die durch nicht autorisierte Benutzer oder Malware ausgenutzt werden können.**
 
 
-## 1. Arten von Angriffsvektoren
+## 2. Arten von Angriffsvektoren
 
 ![Arten von Angriffsvektoren](../imgs/ArtenVonAngriffsvektoren.png)
 

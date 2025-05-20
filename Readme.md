@@ -1,6 +1,9 @@
 # Angriffsvectoren
 
-by [Latic](https://github.com/LatiEm220189), [Yakut](https://github.com/YakuEn220157) und [Weichhart](https://github.com/WeicJa210116/)
+by 
+- [Latic](https://github.com/LatiEm220189) 
+- [Yakut](https://github.com/YakuEn220157) 
+- [Weichhart](https://github.com/WeicJa210116/)
 
 ## Inhalt
 
@@ -11,6 +14,6 @@ by [Latic](https://github.com/LatiEm220189), [Yakut](https://github.com/YakuEn22
 - **Beispiele aus der Praxis (Case Studies)**
   - Bekannte Angriffe und ihre Angriffsvektoren
   - Analyse von Sicherheitslücken
-    - Cyber Kill Chain
+  - Cyber Kill Chain
 - [**Gegenmaßnahmen**](./docs/Gegenmaßnahmen.md)
   - Defense in depth

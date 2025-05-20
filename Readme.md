@@ -5,12 +5,12 @@ by [Latic](https://github.com/LatiEm220189), [Yakut](https://github.com/YakuEn22
 ## Inhalt
 
 - [**Begriffe**](./docs/Begriffe.md)
-- [**Klassifizierung von Angriffsvektoren**](./)
+- [**Klassifizierung von Angriffsvektoren**](./docs/AngriffsvektorenKlassifizierung.md)
 - [**Häufige Angriffsvektoren in der Praxis**](./docs/HäufigeAngriffsvektoren.md)
   - OWASP Top 10
 - **Beispiele aus der Praxis (Case Studies)**
   - Bekannte Angriffe und ihre Angriffsvektoren
   - Analyse von Sicherheitslücken
     - Cyber Kill Chain
-- **Gegenmaßnahmen**
+- [**Gegenmaßnahmen**](./docs/Gegenmaßnahmen.md)
   - Defense in depth

@@ -17,3 +17,5 @@ by
   - Cyber Kill Chain
 - [**Gegenmaßnahmen**](./docs/Gegenmaßnahmen.md)
   - Defense in depth
+
+- [**Übungen**](./exercises/Readme.md)

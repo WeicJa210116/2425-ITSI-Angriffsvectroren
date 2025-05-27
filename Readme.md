@@ -11,7 +11,7 @@ by
 - [**Klassifizierung von Angriffsvektoren**](./docs/AngriffsvektorenKlassifizierung.md)
 - [**Häufige Angriffsvektoren in der Praxis**](./docs/HäufigeAngriffsvektoren.md)
   - OWASP Top 10
-- **Beispiele aus der Praxis (Case Studies)**
+- [**Beispiele aus der Praxis (Case Studies)**](./docs/Beispiele.md)
   - Bekannte Angriffe und ihre Angriffsvektoren
   - Analyse von Sicherheitslücken
   - Cyber Kill Chain

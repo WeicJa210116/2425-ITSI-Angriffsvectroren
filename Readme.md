@@ -1,9 +1,9 @@
 # Angriffsvectoren
 
 by 
-- [Latic](https://github.com/LatiEm220189) 
-- [Yakut](https://github.com/YakuEn220157) 
-- [Weichhart](https://github.com/WeicJa210116/)
+- [Latic Eman](https://github.com/LatiEm220189) 
+- [Yakut Ensar](https://github.com/YakuEn220157) 
+- [Weichhart Jan](https://github.com/WeicJa210116/)
 
 ## Inhalt
 

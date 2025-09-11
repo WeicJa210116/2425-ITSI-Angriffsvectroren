@@ -19,7 +19,7 @@ Bei phishing, Social Engineering usw. nutzt man Menschen als Angriffsvectoren. M
 - **Shoulder Surfing**: Ausspähen von Passwörtern
 - **Dumpster Diving**: Durchsuchen von Müll nach sensiblen Daten
 
-# OWASP Top 10
+# OWASP Top 10 from 2021
 
 ### 1) Broken Access Control
 - Umgehung von Authentifizierung und Autorisierung

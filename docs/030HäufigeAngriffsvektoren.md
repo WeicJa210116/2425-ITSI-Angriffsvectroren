@@ -80,3 +80,7 @@ Bei phishing, Social Engineering usw. nutzt man Menschen als Angriffsvectoren. M
 - Zugriff auf interne Systeme über manipulierte URLs
 - Umgehung von Netzwerk-Segmentierung
 - Ausnutzung von Cloud-Metadaten-Endpunkten
+
+ ### Links 
+- [OWASP](https://owasp.org/www-project-top-ten/)
+

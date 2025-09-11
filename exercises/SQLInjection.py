@@ -29,6 +29,52 @@ with get_db() as conn:
 form_html = """
 <!doctype html>
 <title>SQL Injection Demo</title>
+<style>
+body {
+    background: #f4f4f4;
+    font-family: Arial, sans-serif;
+}
+h2 {
+    text-align: center;
+    color: #333;
+}
+form {
+    background: #fff;
+    padding: 2em 2em 1em 2em;
+    margin: 2em auto;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    max-width: 350px;
+}
+input[type="text"], input[type="password"] {
+    width: 95%;
+    padding: 0.5em;
+    margin: 0.5em 0 1em 0;
+    border: 1px solid #bbb;
+    border-radius: 4px;
+    font-size: 1em;
+}
+input[type="submit"] {
+    background: #0078d7;
+    color: #fff;
+    border: none;
+    padding: 0.7em 1.5em;
+    border-radius: 4px;
+    font-size: 1em;
+    cursor: pointer;
+    transition: background 0.2s;
+}
+input[type="submit"]:hover {
+    background: #005fa3;
+}
+p {
+    text-align: center;
+    font-size: 1.1em;
+}
+b {
+    color: #0078d7;
+}
+</style>
 <h2>Login</h2>
 <form method="post">
   Username: <input name="username"><br>

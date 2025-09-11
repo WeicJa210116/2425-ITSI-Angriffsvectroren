@@ -2,7 +2,7 @@
 
 ## Phishing und Social Engineering
 
-Bei phisching, Social Engineering usw. nutzt man Menschen als Angriffsvectoren. Menschen sind oft naiv und können leicht geteuscht werden. Das macht man sich dabei zu nutzen um an Informationen wie Passwörter oder ähnliches zu kommen.
+Bei phishing, Social Engineering usw. nutzt man Menschen als Angriffsvektoren. Menschen sind oft naiv und können leicht geteuscht werden. Das macht man sich dabei zu nutzen um an Informationen wie Passwörter oder ähnliches zu kommen.
 
 ## Web-basierte Angriffe
 - **SQL Injection**: Manipulation von Datenbank-Abfragen
